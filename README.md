@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ronay
 =============================================================================================================================
 
-I've started learning HTML, CSS & JS in early 2021. Took my skills further diving into more advanced topics and building projects using ReactJS library. What I like about programming is that I constantly face new challenges which urges me to do research and learn new things about programming. I find it intriguing because I often times find myself reading and learning about interesting aspects of programming because a word or term I read in an article leads to another.
+I've started learning HTML, CSS & JS in early 2021. Took my skills further diving into more advanced topics and building projects using ReactJS library. What I like about programming is that I constantly face new challenges which urges me to do research and learn new things about programming. It is quite amusing because I often times find myself reading and learning about interesting aspects of programming because a word or term I read in an article leads to another.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [rnytpl@gmail.com](mailto:rnytpl@gmail.com)

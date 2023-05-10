@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 My programming journey started learning HTML, CSS & JS in early 2021. Took my skills further diving into more advanced topics and building projects using ReactJS library. What I like about programming is that I constantly face new challenges which urges me to do research and learn new things about programming. It is quite amusing because I often times find myself reading and learning about interesting aspects of programming because a word or term I read in an article leads to another.
 
-* 🌍  I'm based in Turkey
+* 🌍  I'm based in Istanbul, TURKEY
 * ✉️  You can contact me at [rnytpl@gmail.com](mailto:rnytpl@gmail.com)
 * 🧠  I'm learning GraphQL
 * ⚡  Big LOTR Fan

@@ -5,7 +5,7 @@ My programming journey started learning HTML, CSS & JS in early 2021. Took my sk
 
 * 🌍  I'm based in Istanbul, TURKEY
 * ✉️  You can contact me at [rnytpl@gmail.com](mailto:rnytpl@gmail.com)
-* 🧠  I'm learning GraphQL
+* 🧠  I'm currently learnnig C# and .NET.
 * ⚡  Big LOTR Fan
 
 ### Skills

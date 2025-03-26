@@ -6,7 +6,6 @@ My programming journey started learning HTML, CSS & JS in early 2021. Took my sk
 * 🌍  I'm based in Vancouver, CANADA
 * ✉️  You can contact me at [rnytpl@gmail.com](mailto:ronay.topal123@gmail.com)
 * 🧠  I'm currently learnnig C# and .NET.
-* ⚡  Big LOTR Fan
 
 ### Skills
 
